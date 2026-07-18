@@ -6,6 +6,6 @@
 "~/src/dotfiles" = { url = "git@github.com:tommy-ish/dotfiles.git", ref = "main" }
 
 [dotfiles]
+"~/.gitconfig" = "~/src/dotfiles/gitconfig"
 "~/.dotfiles" = "~/src/dotfiles"
 "~/.config/mise/config.toml" = "~/src/dotfiles/mise/config.toml"
-"~/.gitconfig" = {}
