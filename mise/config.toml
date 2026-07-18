@@ -2,6 +2,7 @@
 "brew:gh" = "latest"
 "brew-cask:visual-studio-code" = "latest"
 "brew-cask:claude" = "latest"
+"brew-cask:chatgpt" = "latest"
 
 [bootstrap.repos]
 "~/src/dotfiles" = { url = "git@github.com:tommy-ish/dotfiles.git", ref = "main" }
