@@ -3,3 +3,6 @@
 "~/.zshrc" = { mode = "track" }
 [bootstrap.services.mise-history]
 builtin = "history-watch"
+
+[tools]
+gh = "latest"
