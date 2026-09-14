@@ -9,3 +9,4 @@ gh = "latest"
 
 [bootstrap.packages]
 "brew-cask:ghostty" = "latest"
+"brew-cask:chatgpt" = "latest"
