@@ -6,3 +6,6 @@ builtin = "history-watch"
 
 [tools]
 gh = "latest"
+
+[bootstrap.packages]
+"brew-cask:ghostty" = "latest"
