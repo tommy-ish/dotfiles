@@ -1,6 +1,7 @@
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.zshrc" = { mode = "track" }
+
 [bootstrap.services.mise-history]
 builtin = "history-watch"
 
